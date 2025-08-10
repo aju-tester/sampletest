@@ -15,5 +15,11 @@ public class Main {
         System.out.println("testing2");
 
 
+        System.out.println("dhejjs");
+
+        for (int i=0;i<=10 ; i++){
+            System.out.println("ehjj");
+        }
+
     }
 }
