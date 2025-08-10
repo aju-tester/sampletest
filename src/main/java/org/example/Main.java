@@ -10,6 +10,10 @@ public class Main {
         System.out.println("ejjekw");
         System.out.println("ejjekw");
 
+        System.out.println("testing");
+
+        System.out.println("testing2");
+
 
     }
 }
